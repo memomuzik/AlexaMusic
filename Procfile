@@ -1,2 +1,2 @@
 
-worker: python3 -m AlexaMusic
+web: python3 -m AlexaMusic
